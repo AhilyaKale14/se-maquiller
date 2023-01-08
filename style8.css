@@ -1,0 +1,16 @@
+body{
+    background-image: url('/Assets/page8.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    cursor:default;
+}
+
+.box1{
+    height: 100%;
+    width:100%;
+    cursor:default;
+    
+}
